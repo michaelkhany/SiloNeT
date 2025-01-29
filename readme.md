@@ -1,7 +1,3 @@
-Here is the updated **README** reflecting the official project name **SiloNeT** (Simulation & Localization Network Tool), making it clear that it is a **vehicle simulation tool for offline localization testing**:
-
----
-
 # **SiloNeT - Simulation & Localization Network Tool**
 
 ## **Overview**
