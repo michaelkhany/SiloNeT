@@ -24,7 +24,7 @@ from simulator.network_simulator import NetworkSimulator
 
 # ------------------------------------------------------------------------------------------------------
 # Change this class library to try different offline localization strategies vvvvvvvvvvvvvvvvvvvvvvvvvvv
-# from student_algorithms.trilateration_offline_localization.pyoffline_localization import OfflineLocalization
+# from student_algorithms.trilateration_offline_localization import OfflineLocalization
 from student_algorithms.beliefPropagationLocalization import OfflineLocalization
 
 # Initialize the network simulator
