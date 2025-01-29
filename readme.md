@@ -61,7 +61,7 @@ pip install numpy matplotlib scipy
 ### **2. Running the Simulation**
 1. **Navigate to the project directory**:
    ```bash
-   cd D:.
+   cd SiloNeT
    ```
 2. **Run the simulation**:
    ```bash
